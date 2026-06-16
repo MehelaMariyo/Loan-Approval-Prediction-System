@@ -1,1 +1,1 @@
-print("ok")
+from loan_acceptance import *
